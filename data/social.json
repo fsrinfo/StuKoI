@@ -1,0 +1,19 @@
+{
+  "main": [
+    {
+      "name": "Tickets",
+      "icon": "fa-solid fa-ticket",
+      "link": "https://tickets.fsrinfo.de/stukoi"
+    },
+    {
+      "name": "mail",
+      "icon": "fa-regular fa-envelope",
+      "link": "mailto:weyers@uni-trier.de,fsrinfo@fsrinfo.de"
+    },
+    {
+      "name": "instagram",
+      "icon": "fa-brands fa-instagram",
+      "link": "https://www.instagram.com/fsr.info"
+    }
+  ]
+}
