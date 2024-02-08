@@ -12,7 +12,7 @@ banner:
 # Features
 features:
   - title: "Place and Time"
-    image: "images/poster.png"
+    image: "images/poster_en.png"
     content: "<iframe
   width='100%'
   height='450'
@@ -43,17 +43,18 @@ features:
   - title: "How can I participate?"
     image: "/images/fisch.svg"
     content: "
-    Any person wishing to attend the conference must order a free ticket at ***<a href='https://tickets.fsrinfo.de/stukoi/'>tickets.fsrinfo.de/stukoi/</a>***. Booking a ticket early supports the planning process of the event.<br> 
-    If you would also like to present at the conference, you need to hand in you submission by **12.04.2024**. Send an e-mail with a report that is no longer than 2 pages to ***<a href='mailto:weyers@uni-trier.de,fsrinfo@fsrinfo.de?subject=Einreichung%20StuKoI%202024'>Professor Weyers and the Fachschaftsrat</a>***. You will receive feedback by 17.04. whether your submission has been accepted. You then have until **26.04.** to submit your poster and a single PowerPoint slide to support your presentation. We will cover the costs for printing the poster! Alternatively, you can also lead a workshop on a topic of your choice. You can find an example of such a submission here.<br>
+    Any person wishing to attend the conference must order a free ticket. Booking a ticket early supports the planning process of the event.<br> 
+    If you would also like to present at the conference, you need to hand in you submission by **12.04.2024**. Submit your report that is no longer than 2 pages. You can find the call for papers down below. You will receive feedback by 17.04. whether your submission has been accepted. You then have until **26.04.** to submit your poster and a single PowerPoint slide to support your presentation. We will cover the costs for printing the poster! Alternatively, you can also lead a workshop on a topic of your choice. You can find an example of such a submission down below.<br>
 
-    If you need more inspiration, you can submit:
+    All links:
     "
     bulletpoints:
-      - "Projects you made in class or at an internship"
-      - "Your bachelor's or master's thesis"
-      - "Own projects, such as programming projects on Raspberry Pis."
+      - "<ins><a href='https://survey.fachschaften.org/843925'>Submit your report here</a></ins>"
+      - "<ins><a href='https://tickets.fsrinfo.de/stukoi/'>Get your tickets here</a></ins>"
+      - "<a href='CFP_en.pdf'><ins> Call for Papers </ins></a> "
+      - "<ins>[Example of a submission](Example.pdf)</ins>"
     button:
       enable: true
-      label: "Submit your Repost here"
-      link: "mailto:weyers@uni-trier.de,fsrinfo@fsrinfo.de?subject=Einreichung%20StuKoI%202024"
+      label: "Submit your Report here"
+      link: "https://survey.fachschaften.org/843925"
 ---
