@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Get Your Tickets"
-    link: "https://tickets.fsrinfo.de/stukoi/"
+    link: "https://tickets.fsrinfo.de/locale/set?locale=en&next=/stukoi/"
 
 # Features
 features:
@@ -28,13 +28,13 @@ features:
 
   - title: "What can you do at the StuKoI?"
     image: "/images/kaigi_man.png"
-    content: "At the StuKoI, students will have the opportunity to present various projects. On the one hand, the projects can be presented with the help of posters and 2-minute presentations.Alternatively, there will be the opportunity to offer workshops in which participants can discuss various topics. There will also be sufficient time for breaks, during which snacks and drinks will be available. The StuKoI can be a great opportunity to learn. You..."
+    content: "At the StuKoI, students will have the opportunity to present various projects. On the one hand, the projects can be presented with the help of posters and 2-minute presentations. Alternatively, there will be the opportunity to offer workshops in which participants can discuss various topics. There will also be sufficient time for breaks, during which snacks and drinks will be available. The StuKoI can be a great opportunity to learn about scientific conferences. You..."
     bulletpoints:
       - "get your first insights into the operation of a scientific conference."
       - "can present your project work, graduation thesis or even your own computer science-related project."
       - "can organize or participate in workshops."
       - "will meet new people."
-      - "may even win a prize for the best presentation."
+      - "may even win a prize for the best poster."
     button:
       enable: false
       label: "Get Started Now"
@@ -49,12 +49,12 @@ features:
     All links:
     "
     bulletpoints:
-      - "<ins><a href='https://survey.fachschaften.org/843925'>Submit your report here</a></ins>"
-      - "<ins><a href='https://tickets.fsrinfo.de/stukoi/'>Get your tickets here</a></ins>"
+      - "<ins><a href='https://survey.fachschaften.org/843925?newtest=Y&lang=en'>Submit your report here</a></ins>"
+      - "<ins><a href='https://tickets.fsrinfo.de/locale/set?locale=en&next=/stukoi/'>Get your tickets here</a></ins>"
       - "<a href='CFP_en.pdf'><ins> Call for Papers </ins></a> "
       - "<ins>[Example of a submission](Example.pdf)</ins>"
     button:
       enable: true
       label: "Submit your Report here"
-      link: "https://survey.fachschaften.org/843925"
+      link: "https://survey.fachschaften.org/843925?newtest=Y&lang=en"
 ---

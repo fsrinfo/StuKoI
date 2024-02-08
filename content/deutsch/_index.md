@@ -31,7 +31,7 @@ features:
       - "kannst Du Deine Projektarbeit, Abschlussarbeit oder auch Dein eigenes informatikbezogenes Projekt vorstellen."
       - "kannst Du Workshops organisieren oder daran teilnehmen."
       - "wirst Du neue Leute kennenlernen, auch aus anderen Fächern."
-      - "und vielleicht sogar einen Preis für die beste Vorstellung eines Themas gewinnen."
+      - "und vielleicht sogar einen Preis für das beste Poster gewinnen."
 
   - title: "Wie kann ich an der Konferenz teilnehmen?"
     image: "/images/fisch.svg"
@@ -40,12 +40,12 @@ features:
     Alle Links:
     "
     bulletpoints:
-      - "<ins><a href='https://survey.fachschaften.org/843925'>Reiche hier den Bericht ein</a></ins>"
+      - "<ins><a href='https://survey.fachschaften.org/843925?newtest=Y&lang=de-informal'>Reiche hier den Bericht ein</a></ins>"
       - "<ins><a href='https://tickets.fsrinfo.de/stukoi/'>Hol dir hier dein Ticket für die StuKoI</a></ins>"
       - "<ins><a href='CFP.pdf'>Call for Papers</a></ins>"
       - "<ins>[Beispieleinreichung](Beispiel.pdf)</ins>"
     button:
       enable: true
       label: "Reiche hier den Bericht ein"
-      link: "https://survey.fachschaften.org/843925"
+      link: "https://survey.fachschaften.org/843925?newtest=Y&lang=de-informal"
 ---
