@@ -3,7 +3,15 @@
 banner:
   image: "/images/stukoi_logo.svg"
   title: "The First StuKoI 2024"
-  content: "StuKoI is the abbreviation for **Stu**dierenden**ko**nferenz **I**nformatik (engl. Student Conference Informatics) and was created in cooperation with Professor Weyers and the Fachschaftsrat Informatik of Trier University. The aim of the conference is to offer students the opportunity to present their own projects and to gain valuable experience in dealing with scientific conferences. At the bottom of the page, you will find more information about what kind of papers can be submitted."
+  content: "#### May 3rd 2024, Chapel Campus II
+  
+  StuKoI is the abbreviation for **Stu**dierenden**ko**nferenz **I**nformatik (engl. Student Conference Informatics) and was created in cooperation with Professor Weyers and the Fachschaftsrat Informatik of Trier University. The aim of the conference is to offer students the opportunity to present their own projects and to gain valuable experience in dealing with scientific conferences. At the bottom of the page, you will find more information about what kind of papers can be submitted.
+  <br>
+  <br>
+
+  #### <ins><a href='https://survey.fachschaften.org/843925?newtest=Y&lang=en'>Submit your report here</a></ins>
+
+  <br>"
   button:
     enable: true
     label: "Get Your Tickets"
@@ -42,12 +50,9 @@ features:
 
   - title: "How can I participate?"
     image: "/images/fisch.svg"
-    content: "
-    Any person wishing to attend the conference must order a free ticket. Booking a ticket early supports the planning process of the event.<br> 
-    If you would also like to present at the conference, you need to hand in you submission by **12.04.2024**. Submit your report that is no longer than 2 pages. You can find the call for papers down below. You will receive feedback by 17.04. whether your submission has been accepted. You then have until **26.04.** to submit your poster and a single PowerPoint slide to support your presentation. We will cover the costs for printing the poster! Alternatively, you can also lead a workshop on a topic of your choice. You can find an example of such a submission down below.<br>
-
-    All links:
-    "
+    content: "Anyone interested in attending the conference must order a free ticket. Booking a ticket early supports the planning process of the event.<br> 
+    If you would also like to present at the conference, you need to hand in you submission by **April 12**. Your submission should not exceed 2 pages and must describe what you have done as part of your work. All additional information and details can be found in the Call for Papers linked below. You will receive feedback by **April 17** on whether your submission has been accepted. You then have until **April 26* to submit your poster and a single PowerPoint slide to support your presentation. We will cover the costs for printing the poster! There will be prizes for the posters that receive the most votes from other participants. Alternatively, you can also lead a workshop on a topic of your choice. Please submit a report of up to two pages describing the topic you wish to present. An example of such a submission can be found below.<br>
+    All links:"
     bulletpoints:
       - "<ins><a href='https://survey.fachschaften.org/843925?newtest=Y&lang=en'>Submit your report here</a></ins>"
       - "<ins><a href='https://tickets.fsrinfo.de/locale/set?locale=en&next=/stukoi/'>Get your tickets here</a></ins>"
