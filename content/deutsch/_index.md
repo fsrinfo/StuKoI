@@ -3,7 +3,7 @@
 banner:
   image: "/images/stukoi_logo.svg"
   title: "Die erste StuKoI 2024"
-  content: "### 03. Mai 2024, Kapelle Campus II
+  content: "### 22. November 2024, Kapelle Campus II
 
   StuKoI ist die Abkürzung für **Stu**dierenden**ko**nferenz **I**nformatik und wurde in Zusammenarbeit mit Professor Weyers und dem Fachschaftsrat Informatik der Uni Trier ins Leben gerufen. Ziel der Konferenz ist es, Studierenden die Möglichkeit zu bieten, ihre eigenen Projekte zu präsentieren und dabei wertvolle Erfahrungen im Umgang mit wissenschaftlichen Konferenzen zu sammeln. Unten auf der Seite befinden sich weitere Informationen darüber, welche Art von Beiträgen eingereicht werden können.
   <br>
@@ -45,7 +45,7 @@ features:
   - title: "Wie kann ich an der Konferenz teilnehmen?"
     image: "/images/fisch.svg"
     content: "Jede Person, die an der Konferenz teilnehmen möchte, muss sich ein kostenloses Ticket bestellen. Den Link findest du unten. Die frühzeitige Reservierung eines Tickets unterstützt den Planungsprozess der Veranstaltung.<br>
-    Wenn Du zusätzlich auch etwas vorstellen möchtest, dann reichen Deinen Beitrag bis zum **12.04.2024** ein. Dieser Beitrag soll nicht mehr als 2 Seiten umfassen und beschreiben, was Du im Rahmen Deiner Arbeit gemacht hast. Alle weiteren Informationen und Details findest Du im Call for Papers als Link weiter unten. Du bekommst bis zum **17.04.** die Rückmeldung, ob Dein Beitrag angenommen wurde. Bis zum **26.04.** hast du dann Zeit dein Poster und eine einzelne PowerPoint-Folie einzureichen, die deinen Vortrag unterstützen sollen. Die Kosten für den Druck des Posters übernehmen wir! Es wird Preise für die Poster geben, die die meisten Stimmen der anderen Teilnehmenden bekommen. Alternativ kannst Du auch einen Workshop zu einem Thema deiner Wahl leiten. Reiche dafür bitte auch einen maximal zweiseitigen Bericht ein, in dem Du das Thema beschreibst, das du vorstellen möchtest. Ein Beispiel für eine solche Einreichung findest du weiter unten.<br>
+    Wenn Du zusätzlich auch etwas vorstellen möchtest, dann reiche Deinen Beitrag bis zum **02.11.2024** ein. Dieser Beitrag soll nicht mehr als 2 Seiten umfassen und beschreiben, was Du im Rahmen Deiner Arbeit gemacht hast. Alle weiteren Informationen und Details findest Du im Call for Papers als Link weiter unten. Du bekommst bis zum **08.11.** die Rückmeldung, ob Dein Beitrag angenommen wurde. Bis zum **15.11.** hast du dann Zeit dein Poster und eine einzelne PowerPoint-Folie einzureichen, die deinen Vortrag unterstützen sollen. Die Kosten für den Druck des Posters übernehmen wir! Es wird Preise für die Poster geben, die die meisten Stimmen der anderen Teilnehmenden bekommen. Alternativ kannst Du auch einen Workshop zu einem Thema deiner Wahl leiten. Reiche dafür bitte auch einen maximal zweiseitigen Bericht ein, in dem Du das Thema beschreibst, das du vorstellen möchtest. Ein Beispiel für eine solche Einreichung findest du weiter unten.<br>
     Alle Links:
     "
     bulletpoints:
