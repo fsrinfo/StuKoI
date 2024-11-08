@@ -3,20 +3,14 @@
 banner:
   image: "/images/stukoi_logo.svg"
   title: "Die erste StuKoI 2024"
-  content: "### 22. November 2024, Kapelle Campus II
+  content: "### ABGESAGT
+
+  ###### Aufgrund mangelndem Interesse endgültig abgesagt
 
   StuKoI ist die Abkürzung für **Stu**dierenden**ko**nferenz **I**nformatik und wurde in Zusammenarbeit mit Professor Weyers und dem Fachschaftsrat Informatik der Uni Trier ins Leben gerufen. Ziel der Konferenz ist es, Studierenden die Möglichkeit zu bieten, ihre eigenen Projekte zu präsentieren und dabei wertvolle Erfahrungen im Umgang mit wissenschaftlichen Konferenzen zu sammeln. Unten auf der Seite befinden sich weitere Informationen darüber, welche Art von Beiträgen eingereicht werden können.
   <br>
   <br>
-
-  #### <ins><a href='https://survey.fachschaften.org/843925?newtest=Y&lang=de-informal'>Reiche hier den Bericht ein </a></ins>
-  
   <br>"
-
-  button:
-    enable: true
-    label: "Zu den Tickets"
-    link: "https://tickets.fsrinfo.de/locale/set?locale=de-informal&next=/stukoi/"
 
 # Features
 features:
@@ -49,12 +43,6 @@ features:
     Alle Links:
     "
     bulletpoints:
-      - "<ins><a href='https://survey.fachschaften.org/843925?newtest=Y&lang=de-informal'>Reiche hier den Bericht ein</a></ins>"
-      - "<ins><a href='https://tickets.fsrinfo.de/locale/set?locale=de-informal&next=/stukoi/'>Hol dir hier dein Ticket für die StuKoI</a></ins>"
       - "<ins><a href='CFP.pdf'>Call for Papers</a></ins>"
       - "<ins>[Beispieleinreichung](Beispiel.pdf)</ins>"
-    button:
-      enable: true
-      label: "Reiche hier den Bericht ein"
-      link: "https://survey.fachschaften.org/843925?newtest=Y&lang=de-informal"
 ---
